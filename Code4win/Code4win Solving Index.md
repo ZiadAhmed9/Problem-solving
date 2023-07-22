@@ -9,7 +9,6 @@ Language used : [[C Language]]
 - [[check whether a number is even or odd]]
 - [[check whether a character is alphabet or not]]
 - [[check whether a number is positive, negative or zero]]
-- [[check whether a number is positive, negative or zero]]
 
 ---
 ## Bitwise C Practice
@@ -20,3 +19,8 @@ Language used : [[C Language]]
  - [[count leading zeros in a binary number]]
  - [[count trailing zeros in a binary number]]
  - [[rotate bits of a number]]
+
+---
+## Loops
+- [[count number of digits in an integer]]
+- [[print multiplication table of a given number]]
